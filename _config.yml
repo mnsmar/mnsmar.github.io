@@ -1,0 +1,19 @@
+# Site settings
+title: Emmanouil Maragkakis
+email: mns.marag@gmail.com
+description: "A personal website for Emmanouil Maragkakis"
+baseurl: ""
+url: "http://emaragkakis.com"
+twitter_username: mnsmar
+github_username:  mnsmar
+googleplus_username: +EmmanouilMaragkakis
+# facebook_username:  manolis.maragkakis.58
+
+# Build settings
+markdown: redcarpet
+# markdown: kramdown
+highlighter: pygments
+permalink: pretty
+# paginate: 5
+# paginate_path: "blog/page:num/"
+# exclude: ["node_modules"]
