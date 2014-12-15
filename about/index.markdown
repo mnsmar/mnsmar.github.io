@@ -1,18 +1,18 @@
 ---
 layout: page
 title: "About"
-description: "This is what I've been doing for the last N years, N > 0."
+description: "Wonder what I've been doing for the last N years, N > 0?"
 header-img: "../img/about-bg.jpg"
 ---
 
 # A quick summary
-I studied Biology but mostly I studied Physics. At the late state of my
-studies in the Physics department I was thrilled by programming. I used
-programming to develop a model that would simulate the transmission of a
-signal through a neuron to the brain. Brain, I always admired this organ. So
-how do I combine all these interesting things together.
+As an undergrad I studied Biology but mostly I studied Physics. Late during in
+my Physics studies I was thrilled by programming. In my thesis I developed a
+model that simulated the transmission of a signal through a neuron to the
+brain. Brain, I always admired this organ. So how do I combine all these
+interesting things together.
 
-*Voila!* **Bioinformatics** to the rescue!
+And here comes **Bioinformatics**!
 
 In my PhD years I worked on RNA biology and developed bioinformatics tools to
 predict miRNA gene targets and consequently integrate miRNAs in gene
