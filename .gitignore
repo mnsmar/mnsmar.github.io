@@ -3,3 +3,4 @@ node_modules
 *.swp
 .ruby-version
 Gemfile.lock
+workbench
