@@ -8,8 +8,8 @@ header-img: "../img/bg.jpg"
 # Summary
 As an undergrad I studied some Biology but mostly I studied Physics. It was
 not until later in my studies that I was introduced and thrilled by Computer
-Science. In my thesis I tried to combine the three disciplines and I developed
-a computational model to simulate signal transmission through neurons. At the
+Science. In my thesis I tried to combine the three disciplines and developed a
+computational model to simulate signal transmission through neurons. At the
 time I didn't know but I was close to a new discipline, _bioinformatics_.
 
 In my PhD I worked on RNA biology and developed bioinformatics tools to
