@@ -1,12 +1,13 @@
 # Site settings
 title: Emmanouil Maragkakis
 email: mns.marag@gmail.com
-description: "A personal website for Emmanouil Maragkakis"
+description: 'Personal website for Emmanouil ''Manolis'' Maragkakis'
 baseurl: ""
-url: "http://emaragkakis.com"
+url: "http://www.emaragkakis.com"
 twitter_username: mnsmar
 github_username:  mnsmar
 googleplus_username: +EmmanouilMaragkakis
+researchgate_username: Manolis_Maragkakis
 # facebook_username:  manolis.maragkakis.58
 
 # Build settings
