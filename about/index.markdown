@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Wonder what I've been doing for the last N years, N > 0?"
-header-img: "../img/about-bg.jpg"
+header-img: "../img/bg.jpg"
 ---
 
 # A quick summary
