@@ -42,7 +42,7 @@ the neurons.
 # Selected Publications
 
 *  *The RNA helicase MOV10L1 binds piRNA precursors to initiate piRNA
-processing.*, **Genes Dev**, [in press]
+processing.*, **Genes Dev**, 2015
 
 *  *A MicroRNA precursor surveillance system in quality control of MicroRNA
 synthesis.*, **Mol Cell**, 2014.
@@ -61,9 +61,12 @@ prediction.*, **Nucleic Acids Res.**, 2009.
 
 # Full Publication List
 
+1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO: A Modern Perl Framework
+for High Throughput Sequencing analysis.*, **BioRxiv**, 2015
+
 1.  Vourekas A, Zheng K, Fu Q, Maragkakis M, Alexiou P, Pillai RS,
 Mourelatos Z, Wang PJ, *The RNA helicase MOV10L1 binds piRNA precursors to
-initiate piRNA processing.*, **Genes Dev**, [in press]
+initiate piRNA processing.*, **Genes Dev**, 2015
 
 1.  Liu X, Zheng Q, Vrettos N, Maragkakis M, Alexiou P, Gregory BD, Mourelatos
 Z, *A MicroRNA precursor surveillance system in quality control of MicroRNA
