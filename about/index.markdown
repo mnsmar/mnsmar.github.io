@@ -77,7 +77,7 @@ genes coding for RNA binding proteins in neurons by binding to their highly
 conserved introns.*, **RNA**, 2013.
 
 1.  Ibrahim F, Maragkakis M, Alexiou P, Maronski AM, Dichter AM, Mourelatos Z,
-1.Identification of in vivo, conserved, TAF15 RNA binding sites reveals the
+*Identification of in vivo, conserved, TAF15 RNA binding sites reveals the
 impact of TAF15 on the neuronal transcriptome.*, **Cell Reports**, 2013.
 
 1.  Vourekas A, Zheng Q, Alexiou P, Maragkakis M, Kirino Y, Gregory BD,
@@ -94,13 +94,13 @@ pathways.*, **Nucleic Acids Res.**, 2012.
 microRNA targets in protein coding sequences.*, **Bioinformatics**, 2012.
 
 1.  Reczko M, Maragkakis M, Alexiou P, Papadopoulos GL, Hatzigeorgiou AG,
-1.Accurate microRNA target prediction using detailed binding site accessibility
+*Accurate microRNA target prediction using detailed binding site accessibility
 and machine learning on proteomics data.*, **Frontiers in genetics**, 2011.
 
 1.  Vergoulis T, Vlachos IS, Alexiou P, Georgakilas G, Maragkakis M, Reczko M,
 Gerangelos S, Koziris N, Dalamagas T, Hatzigeorgiou AG, *TarBase 6.0:
 capturing the exponential growth of miRNA targets with experimental support.*,
-1.*Nucleic Acids Res.**, 2011.
+**Nucleic Acids Res.**, 2011.
 
 1.  Maragkakis M, Vergoulis T, Alexiou P, Reczko M, Plomaritou K, Gousis M,
 Kourtis K, Koziris N, Dalamagas T, Hatzigeorgiou AG, *DIANA-microT Web server
@@ -129,7 +129,7 @@ Hatzigeorgiou AG, *The DIANA-mirExTra web server: from gene expression data
 to miRNA function.*, **PLoS One**, 2010.
 
 1.  Alexiou P, Maragkakis M, Papadopoulos GL, Reczko M, Hatzigeorgiou AG,
-1.Lost in translation: an assessment and perspective for computational miRNA
+*Lost in translation: an assessment and perspective for computational miRNA
 target identification.*, **Bioinformatics**, Review, 2009.
 
 1.  Maragkakis M, Alexiou P, Papadopoulos GL, Reczko M, Dalamagas T,
