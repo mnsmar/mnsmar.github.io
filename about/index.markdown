@@ -61,6 +61,9 @@ prediction.*, **Nucleic Acids Res.**, 2009.
 
 # Full Publication List
 
+1.  Maragkakis M, Alexiou P, Nakaya T, Mourelatos Z, *CLIPSeqTools - A novel
+bioinformatics CLIP-Seq analysis suite*, **RNA**, in press
+
 1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO: A Modern Perl Framework
 for High Throughput Sequencing analysis.*, **BioRxiv**, 2015
 
