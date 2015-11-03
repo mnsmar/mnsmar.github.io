@@ -62,18 +62,22 @@ prediction.*, **Nucleic Acids Res.**, 2009.
 # Full Publication List
 
 1.  Maragkakis M, Alexiou P, Nakaya T, Mourelatos Z, *CLIPSeqTools - A novel
-bioinformatics CLIP-Seq analysis suite*, **RNA**, in press
+bioinformatics CLIP-Seq analysis suite*, **RNA**, in press.
 
 1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO: A Modern Perl Framework
-for High Throughput Sequencing analysis.*, **BioRxiv**, 2015
+for High Throughput Sequencing analysis.*, **BioRxiv**, 2015.
 
 1.  Vourekas A, Zheng K, Fu Q, Maragkakis M, Alexiou P, Pillai RS,
 Mourelatos Z, Wang PJ, *The RNA helicase MOV10L1 binds piRNA precursors to
-initiate piRNA processing.*, **Genes Dev**, 2015
+initiate piRNA processing.*, **Genes Dev**, 2015.
 
 1.  Liu X, Zheng Q, Vrettos N, Maragkakis M, Alexiou P, Gregory BD, Mourelatos
 Z, *A MicroRNA precursor surveillance system in quality control of MicroRNA
 synthesis.*, **Mol Cell**, 2014.
+
+1.  Honda S, Kirino Y, Maragkakis M, Alexiou P, Ohtaki A, Murali R, Mourelatos
+Z, Kirino Y, *Mitochondrial protein BmPAPI modulates the length of mature
+piRNAs.*, **RNA**, 2013.
 
 1.  Nakaya T, Alexiou P, Maragkakis M, Chang A, Mourelatos Z, *FUS regulates
 genes coding for RNA binding proteins in neurons by binding to their highly
@@ -82,6 +86,11 @@ conserved introns.*, **RNA**, 2013.
 1.  Ibrahim F, Maragkakis M, Alexiou P, Maronski AM, Dichter AM, Mourelatos Z,
 *Identification of in vivo, conserved, TAF15 RNA binding sites reveals the
 impact of TAF15 on the neuronal transcriptome.*, **Cell Reports**, 2013.
+
+1.  Paraskevopoulou MD, Georgakilas G, Kostoulas N, Reczko M, Maragkakis M,
+Dalamagas TM, Hatzigeorgiou AG, *DIANA-LncBase: experimentally verified and
+computationally predicted microRNA targets on long non-coding RNAs.*,
+**Nucleic Acids Res.**, 2013.
 
 1.  Vourekas A, Zheng Q, Alexiou P, Maragkakis M, Kirino Y, Gregory BD,
 Mourelatos Z, *Target RNA repertoire of Mili and Miwi reveals piRNA
@@ -96,14 +105,18 @@ pathways.*, **Nucleic Acids Res.**, 2012.
 1.  Reczko M, Maragkakis M, Alexiou P, Grosse I, Hatzigeorgiou AG, *Functional
 microRNA targets in protein coding sequences.*, **Bioinformatics**, 2012.
 
-1.  Reczko M, Maragkakis M, Alexiou P, Papadopoulos GL, Hatzigeorgiou AG,
-*Accurate microRNA target prediction using detailed binding site accessibility
-and machine learning on proteomics data.*, **Frontiers in genetics**, 2011.
+1. Vergoulis T, Alexakis M, Dalamagas T, Maragkakis M, Hatzigeorgiou AG,
+Sellis T, *Tarcloud: A cloud-based platform to support mirna target
+prediction.*, **Lecture Notes in Computer Science**, 2012.
 
 1.  Vergoulis T, Vlachos IS, Alexiou P, Georgakilas G, Maragkakis M, Reczko M,
 Gerangelos S, Koziris N, Dalamagas T, Hatzigeorgiou AG, *TarBase 6.0:
 capturing the exponential growth of miRNA targets with experimental support.*,
-**Nucleic Acids Res.**, 2011.
+**Nucleic Acids Res.**, 2012.
+
+1.  Reczko M, Maragkakis M, Alexiou P, Papadopoulos GL, Hatzigeorgiou AG,
+*Accurate microRNA target prediction using detailed binding site accessibility
+and machine learning on proteomics data.*, **Frontiers in genetics**, 2011.
 
 1.  Maragkakis M, Vergoulis T, Alexiou P, Reczko M, Plomaritou K, Gousis M,
 Kourtis K, Koziris N, Dalamagas T, Hatzigeorgiou AG, *DIANA-microT Web server
