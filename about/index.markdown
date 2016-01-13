@@ -41,6 +41,9 @@ the neurons.
 
 # Selected Publications
 
+1. *Sequence-dependent but not sequence-specific piRNA adhesion traps mRNAs to
+the germ plasm*, **Nature**, in press.
+
 *  *The RNA helicase MOV10L1 binds piRNA precursors to initiate piRNA
 processing.*, **Genes Dev**, 2015
 
@@ -61,8 +64,12 @@ prediction.*, **Nucleic Acids Res.**, 2009.
 
 # Full Publication List
 
+1.  Vourekas A, ALexiou P, Vrettos N, Maragkakis M, Mourelatos Z,
+*Sequence-dependent but not sequence-specific piRNA adhesion traps mRNAs to
+the germ plasm*, **Nature**, in press.
+
 1.  Maragkakis M, Alexiou P, Nakaya T, Mourelatos Z, *CLIPSeqTools - A novel
-bioinformatics CLIP-Seq analysis suite*, **RNA**, in press.
+bioinformatics CLIP-Seq analysis suite*, **RNA**, 2015.
 
 1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO: A Modern Perl Framework
 for High Throughput Sequencing analysis.*, **BioRxiv**, 2015.
