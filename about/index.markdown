@@ -15,10 +15,10 @@ transmits through a neuron.
 In my PhD I worked on RNA biology and developed bioinformatics tools to
 predict miRNA gene targets and integrate miRNAs in gene regulatory networks.
 
-At present, I still work with small RNAs (piRNAs, miRNAs) but also work with
-RNA binding proteins. I'm interested in deciphering the role of RNA binding
-proteins in Amyotrophic Lateral Sclerosis (ALS) and their effect on the
-neurons.
+Now as a postdoctoral fellow, I analyze RNA-Seq and HITS-CLIP data to study
+small RNAs (piRNAs, miRNAs) and RNA binding proteins. I'm interested in
+deciphering the role of RNA binding proteins in Amyotrophic Lateral Sclerosis
+(ALS) and their effect on the neurons.
 
 # Education
 
@@ -30,13 +30,13 @@ neurons.
 
 # Positions
 
-* 2011 - present: Post-Doctoral Fellow
+* 2011 - present: Postdoctoral Fellow
 
 * 2007 - 2011: PhD Scholar
 
 # Awards
 
-* 2013: Brody Foundation Fellowship Award For Incurable Diseases
+* 2013: Brody Foundation Fellowship For Incurable Diseases
 
 * 2010: IKYDA research travel scholarship
 
