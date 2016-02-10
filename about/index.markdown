@@ -67,21 +67,17 @@ impact of TAF15 on the neuronal transcriptome.*, **Cell Reports**, 2013.
 function of Miwi in spermiogenesis.*, **Nat Struct Mol Biol**, 2012.
 ([link](http://www.nature.com/nsmb/journal/v19/n8/full/nsmb.2347.html))
 
-# Full Publication List
+# Peer-reviewed Journal Articles
 
 1.  Vourekas A, ALexiou P, Vrettos N, Maragkakis M, Mourelatos Z,
 *Sequence-dependent but not sequence-specific piRNA adhesion traps mRNAs to
 the germ plasm*, **Nature**, in press.
 
-1.  Maragkakis M, Alexiou P, Nakaya T, Mourelatos Z, *CLIPSeqTools - A novel
+1.  Maragkakis M\*, Alexiou P\*, Nakaya T, Mourelatos Z, *CLIPSeqTools - A novel
 bioinformatics CLIP-Seq analysis suite*, **RNA**, 2015.
 ([link](http://rnajournal.cshlp.org/content/early/2015/11/17/rna.052167.115))
 
-1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO: A Modern Perl Framework
-for High Throughput Sequencing analysis.*, **BioRxiv**, 2015.
-([link](http://biorxiv.org/content/early/2015/11/03/019265))
-
-1.  Vourekas A, Zheng K, Fu Q, Maragkakis M, Alexiou P, Pillai RS,
+1.  Vourekas A\*, Zheng K\*, Fu Q\*, Maragkakis M\*, Alexiou P, Pillai RS,
 Mourelatos Z, Wang PJ, *The RNA helicase MOV10L1 binds piRNA precursors to
 initiate piRNA processing.*, **Genes Dev**, 2015.
 ([link](http://genesdev.cshlp.org/content/early/2015/03/10/gad.254631.114))
@@ -96,12 +92,12 @@ Z, Kirino Y, *Mitochondrial protein BmPAPI modulates the length of mature
 piRNAs.*, **RNA**, 2013.
 ([link](http://rnajournal.cshlp.org/content/19/10/1405.abstract))
 
-1.  Nakaya T, Alexiou P, Maragkakis M, Chang A, Mourelatos Z, *FUS regulates
+1.  Nakaya T, Alexiou P\*, Maragkakis M\*, Chang A, Mourelatos Z, *FUS regulates
 genes coding for RNA binding proteins in neurons by binding to their highly
 conserved introns.*, **RNA**, 2013.
 ([link](http://rnajournal.cshlp.org/content/19/4/498.abstract))
 
-1.  Ibrahim F, Maragkakis M, Alexiou P, Maronski AM, Dichter AM, Mourelatos Z,
+1.  Ibrahim F, Maragkakis M\*, Alexiou P\*, Maronski AM, Dichter AM, Mourelatos Z,
 *Identification of in vivo, conserved, TAF15 RNA binding sites reveals the
 impact of TAF15 on the neuronal transcriptome.*, **Cell Reports**, 2013.
 ([link](http://www.cell.com/cell-reports/abstract/S2211-1247(13)00028-4))
@@ -112,7 +108,7 @@ computationally predicted microRNA targets on long non-coding RNAs.*,
 **Nucleic Acids Res.**, 2013.
 ([link](http://nar.oxfordjournals.org/content/41/D1/D239.abstract))
 
-1.  Vourekas A, Zheng Q, Alexiou P, Maragkakis M, Kirino Y, Gregory BD,
+1.  Vourekas A, Zheng Q, Alexiou P\*, Maragkakis M\*, Kirino Y, Gregory BD,
 Mourelatos Z, *Target RNA repertoire of Mili and Miwi reveals piRNA
 biogenesis and function of Miwi in spermiogenesis.*, **Nat Struct Mol Biol**,
 2012.
@@ -124,7 +120,7 @@ miRPath v. 2.0: investigating the combinatorial effect of microRNAs in
 pathways.*, **Nucleic Acids Res.**, 2012.
 ([link](http://nar.oxfordjournals.org/content/40/W1/W498.abstract))
 
-1.  Reczko M, Maragkakis M, Alexiou P, Grosse I, Hatzigeorgiou AG, *Functional
+1.  Reczko M\*, Maragkakis M\*, Alexiou P, Grosse I, Hatzigeorgiou AG, *Functional
 microRNA targets in protein coding sequences.*, **Bioinformatics**, 2012.
 ([link](http://bioinformatics.oxfordjournals.org/content/28/6/771.abstract))
 
@@ -139,12 +135,12 @@ capturing the exponential growth of miRNA targets with experimental support.*,
 **Nucleic Acids Res.**, 2012.
 ([link](http://nar.oxfordjournals.org/content/40/D1/D222.abstract))
 
-1.  Reczko M, Maragkakis M, Alexiou P, Papadopoulos GL, Hatzigeorgiou AG,
+1.  Reczko M\*, Maragkakis M\*, Alexiou P, Papadopoulos GL, Hatzigeorgiou AG,
 *Accurate microRNA target prediction using detailed binding site accessibility
 and machine learning on proteomics data.*, **Frontiers in genetics**, 2011.
 ([link](http://journal.frontiersin.org/article/10.3389/fgene.2011.00103/abstract))
 
-1.  Maragkakis M, Vergoulis T, Alexiou P, Reczko M, Plomaritou K, Gousis M,
+1.  Maragkakis M\*, Vergoulis T\*, Alexiou P, Reczko M, Plomaritou K, Gousis M,
 Kourtis K, Koziris N, Dalamagas T, Hatzigeorgiou AG, *DIANA-microT Web server
 upgrade supports Fly and Worm miRNA target prediction and bibliographic miRNA
 to disease association.*, **Nucleic Acids Res.**, 2011.
@@ -159,17 +155,6 @@ Iwakiri D, Takada K, Wiedmer A, Showe L, Lieberman P, Nishikura K, *Editing
 of Epstein-Barr virus-encoded BART6 miRNAs controls their dicer targeting and
 consequently affects viral latency.*, **J Biol Chem.**, 2010.
 ([link](http://www.jbc.org/content/285/43/33358.abstract))
-
-1.  Grau J, Arend D, Grosse I, Hatzigeorgiou AG, Keilwagen J, Maragkakis M,
-Weinholdt C, Posch S, *Predicting miRNA targets utilizing an extended profile
-HMM.*, **25th German Conference on Bioinformatics**, 2010.
-([link](https://www.researchgate.net/publication/221493448_Predicting_miRNA_targets_utilizing_an_Extended_Profile_HMM))
-
-1.  Dalamagas, T, Farmakakis, T, Maragkakis, M, Hatzigeorgiou, AG, *FreePub:
-Collecting and Organizing Scientific Material Using Mindmaps.*, **3rd
-International Workshop on Semantic Web Applications and Tools for the Life
-Sciences**, 2010.
-([link](http://ceur-ws.org/Vol-698/paper11.pdf))
 
 1.  Alexiou P, Maragkakis M, Papadopoulos GL, Simmosis VA, Zhang L,
 Hatzigeorgiou AG, *The DIANA-mirExTra web server: from gene expression data
@@ -199,3 +184,28 @@ Sellis T, Tsanakas P, Hatzigeorgiou AG, *DIANA-microT web server: elucidating
 miRNA functions through target prediction.*, **Nucleic Acids Res.**, 2009.
 ([link](http://nar.oxfordjournals.org/content/37/suppl_2/W273.abstract))
 
+# Conference Articles and Posters
+1.  Maragkakis M, Alexiou P, Tadashi N, Mourelatos Z, *CLIPSeqTools: A novel
+bioinformatics CLIP-Seq analysis suite applied on Human Brain Ago HITS-CLIP.*,
+**HSCBB14**, 2014
+
+1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO-HTS: A Modern Perl Framework
+for High Throughput Sequencing analysis.*, **HiTSEQ 2013: High Throughput
+Sequencing Algorithms & Applications**, 2013
+
+1.  Grau J, Arend D, Grosse I, Hatzigeorgiou AG, Keilwagen J, Maragkakis M,
+Weinholdt C, Posch S, *Predicting miRNA targets utilizing an extended profile
+HMM.*, **25th German Conference on Bioinformatics**, 2010.
+([link](https://www.researchgate.net/publication/221493448_Predicting_miRNA_targets_utilizing_an_Extended_Profile_HMM))
+
+1.  Dalamagas, T, Farmakakis, T, Maragkakis, M, Hatzigeorgiou, AG, *FreePub:
+Collecting and Organizing Scientific Material Using Mindmaps.*, **3rd
+International Workshop on Semantic Web Applications and Tools for the Life
+Sciences**, 2010.
+([link](http://ceur-ws.org/Vol-698/paper11.pdf))
+
+# Non Peer-reviewed Articles
+
+1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO: A Modern Perl Framework
+for High Throughput Sequencing analysis.*, **BioRxiv**, 2015.
+([link](http://biorxiv.org/content/early/2015/11/03/019265))
