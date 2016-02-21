@@ -124,11 +124,6 @@ pathways.*, **Nucleic Acids Res.**, 2012.
 microRNA targets in protein coding sequences.*, **Bioinformatics**, 2012.
 ([link](http://bioinformatics.oxfordjournals.org/content/28/6/771.abstract))
 
-1. Vergoulis T, Alexakis M, Dalamagas T, Maragkakis M, Hatzigeorgiou AG,
-Sellis T, *Tarcloud: A cloud-based platform to support mirna target
-prediction.*, **Lecture Notes in Computer Science**, 2012.
-([link](http://link.springer.com/chapter/10.1007%2F978-3-642-31235-9_48))
-
 1.  Vergoulis T, Vlachos IS, Alexiou P, Georgakilas G, Maragkakis M, Reczko M,
 Gerangelos S, Koziris N, Dalamagas T, Hatzigeorgiou AG, *TarBase 6.0:
 capturing the exponential growth of miRNA targets with experimental support.*,
@@ -192,6 +187,11 @@ bioinformatics CLIP-Seq analysis suite applied on Human Brain Ago HITS-CLIP.*,
 1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO-HTS: A Modern Perl Framework
 for High Throughput Sequencing analysis.*, **HiTSEQ 2013: High Throughput
 Sequencing Algorithms & Applications**, 2013
+
+1. Vergoulis T, Alexakis M, Dalamagas T, Maragkakis M, Hatzigeorgiou AG,
+Sellis T, *Tarcloud: A cloud-based platform to support mirna target
+prediction.*, **Lecture Notes in Computer Science**, 2012.
+([link](http://link.springer.com/chapter/10.1007%2F978-3-642-31235-9_48))
 
 1.  Grau J, Arend D, Grosse I, Hatzigeorgiou AG, Keilwagen J, Maragkakis M,
 Weinholdt C, Posch S, *Predicting miRNA targets utilizing an extended profile
