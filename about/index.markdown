@@ -5,21 +5,6 @@ description: "Things I did in the last N years, N > 0"
 header-img: "../img/bg.jpg"
 ---
 
-# Summary
-
-As an undergrad I studied Biology and Physics and later in my studies I was
-thrilled by Computer Science. In my undergrad thesis, I combined the three
-disciplines and developed a computational model to simulate how a signal
-transmits through a neuron.
-
-In my PhD I worked on RNA biology and developed bioinformatics tools to
-predict miRNA gene targets and integrate miRNAs in gene regulatory networks.
-
-Now as a postdoctoral fellow, I analyze RNA-Seq and HITS-CLIP data to study
-small RNAs (piRNAs, miRNAs) and RNA binding proteins. I'm interested in
-deciphering the role of RNA binding proteins in Amyotrophic Lateral Sclerosis
-(ALS) and their effect on the neurons.
-
 # Education
 
 * 2007 - 2011: PhD in Bioinformatics
