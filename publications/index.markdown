@@ -1,14 +1,13 @@
 ---
 layout: page
 title: "Publications"
-description: "Things I've written"
+description: "Things I've authored"
 header-img: "../img/bg.jpg"
 ---
 
 # Citation Metrics
 
-
-| Citations: | &nbsp;**2319** |
+| citations: | &nbsp;**2319** |
 | h-index:	 | &nbsp;**15**   |
 | i10-index: | &nbsp;**17**   |
 
