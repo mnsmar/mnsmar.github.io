@@ -5,7 +5,7 @@ description: "Things I did in the last N years, N > 0"
 header-img: "../img/bg.jpg"
 ---
 
-**EDUCATION**
+# Education
 
 **2002&emsp;B.Sc.&emsp;Biology&emsp;National Kapodistrian University of Athens, Greece**  
 Studied first year courses (introduction to biology, organic and inorganic chemistry and biochemistry) and transferred to the Physics department.
@@ -17,7 +17,7 @@ Thesis: Computational simulation of signal transmission through neurons.
 Advisor: Ivo Grosse, PhD & Artemis Hatzigeorgiou, PhD.  
 Dissertation: Bioinformatics approach for microRNA target prediction and functional analysis.  
 
-**APPOINTMENTS**
+# Appointments
 
 **2011 - present&emsp;    PostDoc&emsp;    University of Pennsylvania, School of Medicine, USA**  
 Advisor: Zissimos Mourelatos, MD.  
@@ -26,14 +26,14 @@ Description: High throughput sequencing data analysis (RNA-Seq, CLIP-Seq, Riboso
 **Jan-March 2011&emsp;   Research Scholar&emsp;    University of Pennsylvania, School of Medicine, USA**  
 High throughput sequencing data analysis to study piRNA biogenesis and reveal a pre-miRNA surveillance system in quality control of miRNA synthesis.
 
-**FUNDING**
+# Funding
 
 2008&emsp; Biomedical Science Research Center Alexander Fleming scholarship  
 2010&emsp; IKYDA research travel scholarship  
 2013&emsp; Brody Family Medical Trust Fund Fellowship in Incurable Diseases  
 2016&emsp; Penn I-Corps (National Science Foundation)  
 
-**SELECTED PUBLICATIONS**  
+# Selected publications
 (* denotes equal contribution)
 
 Maragkakis M, Reczko M, Simossis VA, Alexiou P, Papadopoulos GL, Dalamagas T, Giannopoulos G, Goumas G, Koukis E, Kourtis K, Vergoulis T, Koziris N, Sellis T, Tsanakas P, Hatzigeorgiou AG, *DIANA-microT web server: elucidating miRNA functions through target prediction.*, **Nucleic Acids Res.**, 2009. (citations: 403)
@@ -51,21 +51,21 @@ Vourekas A\*, Zheng K\*, Fu Q\*, Maragkakis M\*, Alexiou P, Pillai RS, Mourelato
 Vourekas A, Alexiou P, Vrettos N, Maragkakis M, Mourelatos Z, *Sequence-dependent but not sequence-specific piRNA adhesion traps mRNAs to the germ plasm*, **Nature**, 2016. (Highlighted in: Dev Cell. 37:9-10, 2016; citations: 1)
 ([link](http://www.nature.com/nature/journal/v531/n7594/full/nature17150.html))
 
-**HONORS**
+# Honors
 
 2011&emsp; PhD: Awarded summa cum laude
 
-**TEACHING**
+# Teaching
 
 2010 - 2011&emsp; Graduate TA&emsp; Substitute lecturer&emsp; National Kapodistrian University of Athens, Greece&emsp; (Introduction to Bioinformatics - Graduate course)
 
 2010 - 2011&emsp; Graduate TA&emsp; University of Thessaly, Greece&emsp; (Bioinformatics - Undergraduate course)
 
-**AD-HOC REVIEWER**
+# Ad-hoc reviewer
 
 Nature Protocols, Nucleic Acids Research, Bioinformatics, BMC Bioinformatics, BMC Genomics
 
-**OTHER**
+# Other
 
 2013&emsp; Member of the International Society of Computational Biology  
 2013&emsp; Member of the Hellenic Society of Computational Biology and Bioinformatics  
