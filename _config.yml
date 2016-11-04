@@ -4,11 +4,8 @@ email: mns.marag@gmail.com
 description: 'Personal website for Emmanouil ''Manolis'' Maragkakis'
 baseurl: ""
 url: "http://www.emaragkakis.com"
-twitter_username: mnsmar
 github_username:  mnsmar
-googleplus_username: +EmmanouilMaragkakis
-researchgate_username: Manolis_Maragkakis
-# facebook_username:  manolis.maragkakis.58
+scholar_username: F3yZjVMAAAAJ
 
 # Build settings
 kramdown:
