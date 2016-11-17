@@ -11,27 +11,22 @@ header-img: "../img/bg.jpg"
 
 * 2008, BSc, Physics, National Kapodistrian University of Athens, Greece
 
-* 2011, PhD, Bioinformatics, Martin Luther Universität Halle Wittenberg, Germany
-Award: The highest distinction *summa cum laude*
-Advisors: Artemis Hatzigeorgiou and Ivo Grosse
+* 2011, PhD, Bioinformatics, Martin Luther Universität Halle Wittenberg, Germany (the highest distinction *summa cum laude*)
 
-# Current position
+# Positions
 
-* 2016 - present, Research Associate, University of Pennsylvania, USA  
-Advisor: Zissimos Mourelatos
+* 2007 - 2011, PhD candidate, BSRC Alexander Fleming, Greece
 
-# Previous positions
-
-* 2007 - 2011, PhD candidate BSRC Alexander Fleming, Greece
-
-* Jan - March 2011, Research Scholar, University of Pennsylvania, USA
+* 2011 - 2011, Research Scholar, University of Pennsylvania, USA
 
 * 2011 - 2016, Postdoc, University of Pennsylvania, USA
 
+* 2016 - present, Research Associate, University of Pennsylvania, USA
+
 # Fellowships and funding
 
-* 2008, Scholarship, Biomedical Science Research Center “Alexander Fleming”, 3-year  
+* 2008, Scholarship, Biomedical Science Research Center “Alexander Fleming” (3-year)
 
-* 2013, Fellowship in Incurable Diseases, Brody Family Medical Trust Fund, 3-year, *<10% acceptance rate*  
+* 2013, Fellowship in Incurable Diseases, Brody Family Medical Trust Fund (3-year, *<10% acceptance rate*)
 
-* 2016, Penn I-Corps fund for innovators (National Science Foundation)  
+* 2016, Penn I-Corps fund for innovators (National Science Foundation)
