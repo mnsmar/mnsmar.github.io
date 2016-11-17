@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "and call me Manolis"
+description: "to my personal space on the web"
 header-img: "img/bg.jpg"
 ---
 
