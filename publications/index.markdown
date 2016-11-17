@@ -5,13 +5,13 @@ description: "Things I've authored"
 header-img: "../img/bg.jpg"
 ---
 
-# Citation metrics
+# Metrics
 
-| citations: | &nbsp;2640  &nbsp;(125 citations per article) |
-| h-index:	 | &nbsp;17   |
-| links:     | [Google Scholar](https://scholar.google.com/citations?user=F3yZjVMAAAAJ), [ResearcherID](http://www.researcherid.com/rid/F-5427-2010)   |
+* Citations: &nbsp;*2660*  &nbsp;*(125 citations per article)*  
+* h-index: &nbsp;*17*   
+* Links: &nbsp;*[Scholar](https://scholar.google.com/citations?user=F3yZjVMAAAAJ)*, &nbsp;*[ResearcherID](http://www.researcherid.com/rid/F-5427-2010)*   
 
-# Selected publications
+# Selected
 
 1. Maragkakis M, Reczko M, Simossis VA, Alexiou P, Papadopoulos GL, Dalamagas T, Giannopoulos G, Goumas G, Koukis E, Kourtis K, Vergoulis T, Koziris N, Sellis T, Tsanakas P, Hatzigeorgiou AG, DIANA-microT web server: elucidating miRNA functions through target prediction., 2009, **Nucleic Acids Research** *(426 citations, 700% more than the journal IF)*
 ([link](http://nar.oxfordjournals.org/content/37/suppl_2/W273.abstract))
@@ -37,7 +37,7 @@ header-img: "../img/bg.jpg"
 1. Vourekas A\*, Alexiou P\*, Vrettos N, Maragkakis M, Mourelatos Z, Sequence-dependent but not sequence-specific piRNA adhesion traps mRNAs to the germ plasm., 2016, **Nature**
 ([link](http://www.nature.com/nature/journal/v531/n7594/full/nature17150.html))
 
-# Peer-reviewed articles
+# Peer-reviewed
 
 1.  Maragkakis M, Reczko M, Simossis VA, Alexiou P, Papadopoulos GL, Dalamagas
 T, Giannopoulos G, Goumas G, Koukis E, Kourtis K, Vergoulis T, Koziris N,
@@ -154,7 +154,7 @@ the germ plasm*, 2016, **Nature**
 Drosophila cell line, contains an active primary piRNA pathway.* 2016, **RNA**
 ([link](http://rnajournal.cshlp.org/content/early/2016/10/27/rna.059139.116.abstract))
 
-# Conference articles and posters
+# Conferences and posters
 
 1.  Dalamagas, T, Farmakakis, T, Maragkakis, M, Hatzigeorgiou, AG, *FreePub:
 Collecting and Organizing Scientific Material Using Mindmaps.*, **3rd
@@ -180,7 +180,7 @@ Sequencing Algorithms & Applications**, 2013
 bioinformatics CLIP-Seq analysis suite applied on Human Brain Ago HITS-CLIP.*,
 **HSCBB14**, 2014
 
-# Non peer-reviewed articles
+# Non peer-reviewed
 
 1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO: A Modern Perl Framework
 for High Throughput Sequencing analysis.*, **BioRxiv**, 2015.
