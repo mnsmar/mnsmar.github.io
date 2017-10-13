@@ -6,39 +6,13 @@ header-img: "../img/bg.jpg"
 ---
 
 # Metrics
+Citations: &nbsp;*3250*  
+First author publications: &nbsp;*9*  
+h-index: &nbsp;*18*   
+Source: &nbsp;*[Google Scholar](https://scholar.google.com/citations?user=F3yZjVMAAAAJ)*
+<br><br>
 
-* Citations: &nbsp;*2660*  &nbsp;*(125 citations per article)*  
-* h-index: &nbsp;*17*   
-* Links: &nbsp;*[Scholar](https://scholar.google.com/citations?user=F3yZjVMAAAAJ)*, &nbsp;*[ResearcherID](http://www.researcherid.com/rid/F-5427-2010)*   
-
-# Selected
-
-1. Maragkakis M, Reczko M, Simossis VA, Alexiou P, Papadopoulos GL, Dalamagas T, Giannopoulos G, Goumas G, Koukis E, Kourtis K, Vergoulis T, Koziris N, Sellis T, Tsanakas P, Hatzigeorgiou AG, DIANA-microT web server: elucidating miRNA functions through target prediction., 2009, **Nucleic Acids Research** *(426 citations, 700% more than the journal IF)*
-([link](http://nar.oxfordjournals.org/content/37/suppl_2/W273.abstract))
-
-1. Vourekas A, Zheng Q, Alexiou P\*, Maragkakis M\*, Kirino Y, Gregory BD, Mourelatos Z, Target RNA repertoire of Mili and Miwi reveals piRNA biogenesis and function of Miwi in spermiogenesis., 2012, **Nature Structural Molecular Biology**
-([link](http://www.nature.com/nsmb/journal/v19/n8/full/nsmb.2347.html))
-
-1. Ibrahim F, Maragkakis M\*, Alexiou P\*, Maronski AM, Dichter AM, Mourelatos Z, Identification of in vivo, conserved, TAF15 RNA binding sites reveals the impact of TAF15 on the neuronal transcriptome., 2013, **Cell Reports**
-([link](http://www.cell.com/cell-reports/abstract/S2211-1247(13)00028-4))
-
-1. Nakaya T, Alexiou P\*, Maragkakis M\*, Chang A, Mourelatos Z, FUS regulates genes coding for RNA binding proteins in neurons by binding to their highly conserved introns., 2013, **RNA**
-([link](http://rnajournal.cshlp.org/content/19/4/498.abstract))
-
-1. Liu X, Zheng Q, Vrettos N, Maragkakis M, Alexiou P, Gregory BD, Mourelatos Z, A MicroRNA precursor surveillance system in quality control of MicroRNA synthesis., 2014, **Molecular Cell**
-([link](http://www.cell.com/molecular-cell/abstract/S1097-2765(14)00610-8))
-
-1. Vourekas A\*, Zheng K\*, Fu Q\*, Maragkakis M\*, Alexiou P, Pillai RS, Mourelatos Z, Wang PJ, The RNA helicase MOV10L1 binds piRNA precursors to initiate piRNA processing., 2015, **Genes & Development**
-([link](http://genesdev.cshlp.org/content/early/2015/03/10/gad.254631.114))
-
-1. Maragkakis M\*, Alexiou P\*, Nakaya T, Mourelatos Z, CLIPSeqTools - A novel bioinformatics CLIP-Seq analysis suite*, 2016, **RNA**
-([link](http://rnajournal.cshlp.org/content/early/2015/11/17/rna.052167.115))
-
-1. Vourekas A\*, Alexiou P\*, Vrettos N, Maragkakis M, Mourelatos Z, Sequence-dependent but not sequence-specific piRNA adhesion traps mRNAs to the germ plasm., 2016, **Nature**
-([link](http://www.nature.com/nature/journal/v531/n7594/full/nature17150.html))
-
-# Peer-reviewed
-
+# Publications
 1.  Maragkakis M, Reczko M, Simossis VA, Alexiou P, Papadopoulos GL, Dalamagas
 T, Giannopoulos G, Goumas G, Koukis E, Kourtis K, Vergoulis T, Koziris N,
 Sellis T, Tsanakas P, Hatzigeorgiou AG, *DIANA-microT web server: elucidating
@@ -82,7 +56,6 @@ Kourtis K, Koziris N, Dalamagas T, Hatzigeorgiou AG, *DIANA-microT Web server
 upgrade supports Fly and Worm miRNA target prediction and bibliographic miRNA
 to disease association.*, 2011, **Nucleic Acids Res.**
 ([link](http://nar.oxfordjournals.org/content/39/suppl_2/W145.abstract))
-
 
 1.  Reczko M\*, Maragkakis M\*, Alexiou P, Papadopoulos GL, Hatzigeorgiou AG,
 *Accurate microRNA target prediction using detailed binding site accessibility
@@ -142,46 +115,58 @@ initiate piRNA processing.*, 2015, **Genes & Development**
 ([link](http://genesdev.cshlp.org/content/early/2015/03/10/gad.254631.114))
 
 1.  Maragkakis M\*, Alexiou P\*, Nakaya T, Mourelatos Z, *CLIPSeqTools - A novel
-bioinformatics CLIP-Seq analysis suite*, 2015, **RNA**
+bioinformatics CLIP-Seq analysis suite.*, 2015, **RNA**
 ([link](http://rnajournal.cshlp.org/content/early/2015/11/17/rna.052167.115))
 
 1.  Vourekas A, ALexiou P, Vrettos N, Maragkakis M, Mourelatos Z,
 *Sequence-dependent but not sequence-specific piRNA adhesion traps mRNAs to
-the germ plasm*, 2016, **Nature**
+the germ plasm.*, 2016, **Nature**
 ([link](http://www.nature.com/nature/journal/v531/n7594/full/nature17150.html))
 
 1. Vrettos N\*, Maragkakis M\*, Alexiou P, Mourelatos Z, *Kc167, a widely used
 Drosophila cell line, contains an active primary piRNA pathway.* 2016, **RNA**
 ([link](http://rnajournal.cshlp.org/content/early/2016/10/27/rna.059139.116.abstract))
 
-# Conferences and posters
+1. Kortschak RD, Snyder JB, Maragkakis M, Adelson DL, *bíogo: a simple
+high-performance bioinformatics toolkit for the Go language.*, 2017, **JOSS**
+([link](http://joss.theoj.org/papers/10.21105/joss.00167))
 
-1.  Dalamagas, T, Farmakakis, T, Maragkakis, M, Hatzigeorgiou, AG, *FreePub:
+1. Tadashi N, Maragkakis M, *Amyotrophic Lateral Sclerosis associated FUS
+mutation shortens mitochondria and induces neurotoxicity.*, in preparation
+
+1. Ibrahim F\*, Maragkakis M\*, Alexiou P, Mourelatos Z, *Ribothrypsis
+mediates canonical, ribosome-phased mRNA endonucleolytic decay.*, under review
+<br><br>
+
+
+# Conferences and posters
+1. Dalamagas, T, Farmakakis, T, Maragkakis, M, Hatzigeorgiou, AG, *FreePub:
 Collecting and Organizing Scientific Material Using Mindmaps.*, **3rd
 International Workshop on Semantic Web Applications and Tools for the Life
 Sciences**, 2010.
-([link](http://ceur-ws.org/Vol-698/paper11.pdf))
 
-1.  Grau J, Arend D, Grosse I, Hatzigeorgiou AG, Keilwagen J, Maragkakis M,
+1. Grau J, Arend D, Grosse I, Hatzigeorgiou AG, Keilwagen J, Maragkakis M,
 Weinholdt C, Posch S, *Predicting miRNA targets utilizing an extended profile
 HMM.*, **25th German Conference on Bioinformatics**, 2010.
-([link](https://www.researchgate.net/publication/221493448_Predicting_miRNA_targets_utilizing_an_Extended_Profile_HMM))
 
 1. Vergoulis T, Alexakis M, Dalamagas T, Maragkakis M, Hatzigeorgiou AG,
 Sellis T, *Tarcloud: A cloud-based platform to support mirna target
 prediction.*, **Lecture Notes in Computer Science**, 2012.
-([link](http://link.springer.com/chapter/10.1007%2F978-3-642-31235-9_48))
 
-1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO-HTS: A Modern Perl Framework
+1. Maragkakis M, Alexiou P, Mourelatos Z, *GenOO-HTS: A Modern Perl Framework
 for High Throughput Sequencing analysis.*, **HiTSEQ 2013: High Throughput
 Sequencing Algorithms & Applications**, 2013
 
-1.  Maragkakis M, Alexiou P, Tadashi N, Mourelatos Z, *CLIPSeqTools: A novel
+1. Maragkakis M, Alexiou P, Tadashi N, Mourelatos Z, *CLIPSeqTools: A novel
 bioinformatics CLIP-Seq analysis suite applied on Human Brain Ago HITS-CLIP.*,
 **HSCBB14**, 2014
 
-# Non peer-reviewed
+1. (Upcoming) Ibrahim F\*, Maragkakis M\*, Alexiou P, Mourelatos Z,
+*Ribothrypsis mediates widespread, ribosome-phased, endonucleolytic decay of
+canonical mRNAs.*, **RECOMB/ISCB**, 2017
+<br><br>
 
+# Archives
 1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO: A Modern Perl Framework
 for High Throughput Sequencing analysis.*, **BioRxiv**, 2015.
 ([link](http://biorxiv.org/content/early/2015/11/03/019265))
