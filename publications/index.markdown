@@ -3,6 +3,7 @@ layout: page
 title: "Publications"
 description: "Things I've authored"
 header-img: "../img/bg.jpg"
+order: 1
 ---
 
 # Metrics
