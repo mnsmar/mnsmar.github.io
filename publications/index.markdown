@@ -133,7 +133,7 @@ high-performance bioinformatics toolkit for the Go language.*, 2017, **JOSS**
 ([link](http://joss.theoj.org/papers/10.21105/joss.00167))
 
 1. Tadashi N, Maragkakis M, *Amyotrophic Lateral Sclerosis associated FUS
-mutation shortens mitochondria and induces neurotoxicity.*, in preparation
+mutation shortens mitochondria and induces neurotoxicity.*, under review
 
 1. Ibrahim F\*, Maragkakis M\*, Alexiou P, Mourelatos Z, *Ribothrypsis
 mediates canonical, ribosome-phased mRNA endonucleolytic decay.*, under review
@@ -162,7 +162,7 @@ Sequencing Algorithms & Applications**, 2013
 bioinformatics CLIP-Seq analysis suite applied on Human Brain Ago HITS-CLIP.*,
 **HSCBB14**, 2014
 
-1. (Upcoming) Ibrahim F\*, Maragkakis M\*, Alexiou P, Mourelatos Z,
+1. Ibrahim F\*, Maragkakis M\*, Alexiou P, Mourelatos Z,
 *Ribothrypsis mediates widespread, ribosome-phased, endonucleolytic decay of
 canonical mRNAs.*, **RECOMB/ISCB**, 2017
 <br><br>
