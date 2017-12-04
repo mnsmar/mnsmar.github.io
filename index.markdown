@@ -4,8 +4,8 @@ description: "to my personal space on the web"
 header-img: "img/bg.jpg"
 ---
 
-**2017-11-19**: I am excited to present our latest work on Ribothrypsis and
-mRNA decay at the RECOMB/ISCB 2017 conference held at Memorial Sloan Kettering
+**2017-11-19**: Great feedback/discussions after my talk on Ribothrypsis and
+mRNA decay at the RECOMB/ISCB 2017 conference at Memorial Sloan Kettering
 Cancer Center in New York.
 <br><br>
 
