@@ -10,6 +10,7 @@ Cancer Center in New York.
 <br><br>
 
 # About me
+![Photo](img/me.jpg){:style="float: left; margin-right: 8px; margin-top: 8px; width:100px;"}
 I am currently a Research Associate in the lab of Dr. Zissimos Mourelatos at
 the University of Pennsylvania (Penn). My research interests revolve around
 data-driven biology, systems biology, genomics, and analysis of large-scale
