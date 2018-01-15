@@ -7,6 +7,10 @@ header-img: "img/bg.jpg"
 **2017-11-19**: Great feedback/discussions after my talk on Ribothrypsis and
 mRNA decay at the RECOMB/ISCB 2017 conference at Memorial Sloan Kettering
 Cancer Center in New York.
+
+**2018-01-15**: 2018 Off to a good start. Our paper on Ribothrypsis has been
+accepted for publication in Nature Structural Molecular Biology. Will be out
+soon.
 <br><br>
 
 # About me
@@ -31,18 +35,18 @@ and a key assumption behind gene expression profiling methods (RNA-Seq,
 microarrays and RT-PCR) was that canonical mRNAs exist, largely, as
 full-length molecules in cells. By developing Akron-Seq, a novel, in-vivo,
 approach that simultaneously captures the native 3' and 5' ends of capped and
-polyadenylated RNAs respectively, we find that this is not accurate and
+polyadenylated RNAs respectively, we found that this is not accurate and
 canonical human mRNAs are subject to repeated, cotranslational,
-ribosome-phased, endonucleolytic cuts in a process that we term
-*ribothrypsis*. Integrating orthogonal large-scale datasets, we find that
+ribosome-phased, endonucleolytic cuts in a process that we termed
+*ribothrypsis*. By integrating orthogonal large-scale datasets, we found that
 ribothrypsis is initiated by a ribosome stall that triggers an endonucleolytic
 cleavage and results in propagating cleavages by upstream ribosomes. Our
-results uncover RNA G-quadruplexes as ribothrypsis triggers, and show that
+results uncovered RNA G-quadruplexes as ribothrypsis triggers, and showed that
 ribothrypsis is a conserved process with a key regulatory role in mRNA
 translation, in humans. Also, mRNA fragments, residuals of ribothrypsis, are
 prevalent in living cells with critical implications for the interpretation of
-RNA experiments, such as RNA-Seq. In light of this discovery, we need to
-redefine what the functional mRNA molecule is, and how the function of
+RNA experiments, such as RNA-Seq. In light of this discovery, we will need to
+redefine what the functional mRNA molecule is, and discover how the function of
 regulatory elements on mRNAs is affected.
 <br><br>
 
