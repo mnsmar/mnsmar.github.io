@@ -8,24 +8,24 @@ header-img: "img/bg.jpg"
 mRNA decay at the RECOMB/ISCB 2017 conference at Memorial Sloan Kettering
 Cancer Center in New York.
 
-**2018-01-15**: 2018 Off to a good start. Our paper on Ribothrypsis has been
-accepted for publication in Nature Structural Molecular Biology. Will be out
-soon.
+**2018-03-05**: Our paper on Ribothrypsis is online in Nature Structural
+Molecular Biology.
+[link](https://www.nature.com/articles/s41594-018-0042-8)
 <br><br>
 
 # About me
-![Photo](img/me.jpg){:style="float: left; margin-right: 8px; margin-top: 8px; width:100px;"}
+![Photo](img/me.jpg){:style="float: left; margin-right: 8px; margin-top: 8px; width:150px;"}
 I am currently a Research Associate in the lab of Dr. Zissimos Mourelatos at
 the University of Pennsylvania (Penn). My research interests revolve around
 data-driven biology, systems biology, genomics, and analysis of large-scale
-data to discover new biology, particularly pertaining to RNA. I have an
-interdisciplinary background in Physics, Biology and Computer Science and have
-navigated my research at the boundaries of biology and informatics. My
-overarching goal is to develop novel, state-of-the-art, computational tools to
-mine and integrate the vast amounts of biological and biomedical data to
+data, particularly pertaining to RNA Biology. I have an interdisciplinary
+background in Physics, Biology and Computer Science and navigated my research
+at the boundaries of biology and informatics. My overarching goal is to
+develop novel, state-of-the-art, computational tools to mine and integrate
+multidimensional biological and biomedical data to discover new biology and
 address fundamental questions in biology and medicine.
 
-You may see my CV [here](download/CV.pdf).
+More information available in my [CV](download/CV.pdf).
 <br><br>
 
 # Latest Research
@@ -44,10 +44,10 @@ cleavage and results in propagating cleavages by upstream ribosomes. Our
 results uncovered RNA G-quadruplexes as ribothrypsis triggers, and showed that
 ribothrypsis is a conserved process with a key regulatory role in mRNA
 translation, in humans. Also, mRNA fragments, residuals of ribothrypsis, are
-prevalent in living cells with critical implications for the interpretation of
+abundant in living cells with critical implications for the interpretation of
 RNA experiments, such as RNA-Seq. In light of this discovery, we will need to
-redefine what the functional mRNA molecule is, and discover how the function of
-regulatory elements on mRNAs is affected.
+redefine what the functional mRNA molecule is, and discover how the function
+of regulatory elements on mRNAs is affected.
 <br><br>
 
 # Research Summary
