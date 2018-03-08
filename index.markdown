@@ -10,7 +10,7 @@ Cancer Center in New York.
 
 **2018-03-05**: Our paper on Ribothrypsis is online in Nature Structural
 Molecular Biology.
-[link](https://www.nature.com/articles/s41594-018-0042-8)
+[link](http://rdcu.be/IC30)
 <br><br>
 
 # About me

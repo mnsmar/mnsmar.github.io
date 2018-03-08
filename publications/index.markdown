@@ -141,7 +141,7 @@ high-performance bioinformatics toolkit for the Go language.* **JOSS**,
 novel process of canonical mRNA decay, mediates ribosome-phased mRNA
 endonucleolysis.* **Nat. Struct. Mol. Biol.** doi: 10.1038/s41594-018-0042-8
 (2018).
-[more...](https://www.nature.com/articles/s41594-018-0042-8)
+[more...](http://rdcu.be/IC30)
 
 1. Tadashi N, Maragkakis M, *Amyotrophic Lateral Sclerosis associated FUS
 mutation shortens mitochondria and induces neurotoxicity.* (in revision)
