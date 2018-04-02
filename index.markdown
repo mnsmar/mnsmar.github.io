@@ -25,7 +25,7 @@ develop novel, state-of-the-art, computational tools to mine and integrate
 multidimensional biological and biomedical data to discover new biology and
 address fundamental questions in biology and medicine.
 
-More information available in my [CV](download/CV.pdf).
+More information available in my [CV](https://drive.google.com/open?id=163op6392r7ZaCq0f2PZeOGqoxhmeX4MM).
 <br><br>
 
 # Latest Research
