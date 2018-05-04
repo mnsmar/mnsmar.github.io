@@ -13,20 +13,24 @@ Metrics: &nbsp;*[Google Scholar](https://scholar.google.com/citations?user=F3yZj
 1.  Maragkakis M, et al., *DIANA-microT web server: elucidating miRNA
 functions through target prediction.* **Nucleic Acids Res.** 37, W273–6,
 (2009).
-[more...](http://nar.oxfordjournals.org/content/37/suppl_2/W273.abstract)
+[more...](http://nar.oxfordjournals.org/content/37/suppl_2/W273.abstract)<br/>
+*(500+ citations)*
 
 1.  Maragkakis M, et al., *Accurate miRNA target prediction correlates with
 protein repression levels.* **BMC Bioinformatics** 10, 295 (2009).
-[more...](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-295)
+[more...](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-295)<br/>
+*(340+ citations)*
 
 1.  Maragkakis M\*, Vergoulis T\*, et al., *DIANA-microT Web server upgrade
 supports Fly and Worm miRNA target prediction and bibliographic miRNA to
 disease association.* **Nucleic Acids Res.** 39, W145–8 (2011).
-[more...](http://nar.oxfordjournals.org/content/39/suppl_2/W145.abstract)
+[more...](http://nar.oxfordjournals.org/content/39/suppl_2/W145.abstract)<br/>
+*(100+ citations)*
 
 1.  Reczko M\*, Maragkakis M\*, et al., *Functional microRNA targets in
 protein coding sequences.* **Bioinformatics** 28, 771–776 (2012).
-[more...](http://bioinformatics.oxfordjournals.org/content/28/6/771.abstract)
+[more...](http://bioinformatics.oxfordjournals.org/content/28/6/771.abstract)<br/>
+*(240+ citations)*
 
 1.  Vourekas A\*, Zheng K\*, Fu Q\*, Maragkakis M\*, et al., *The RNA helicase
 MOV10L1 binds piRNA precursors to initiate piRNA processing.* **Genes &
@@ -40,13 +44,14 @@ novel bioinformatics CLIP-Seq analysis suite.* **RNA** 22, 1–9 (2016).
 1.  Vourekas A, ALexiou P, Vrettos N, Maragkakis M, Mourelatos Z,
 *Sequence-dependent but not sequence-specific piRNA adhesion traps mRNAs to
 the germ plasm.* **Nature** 531, 390–394 (2016).
-[more...](http://www.nature.com/nature/journal/v531/n7594/full/nature17150.html)
+[more...](http://www.nature.com/nature/journal/v531/n7594/full/nature17150.html)<br/>
+*(Highlighted in: Dev Cell. 37:9-10, 2016)*
 
-1. Ibrahim F\*, Maragkakis M\*, Alexiou P, Mourelatos Z, *Ribothrypsis, a
-novel process of canonical mRNA decay, mediates ribosome-phased mRNA
-endonucleolysis.* **Nat. Struct. Mol. Biol.** doi: 10.1038/s41594-018-0042-8
-(2018).
-[more...](http://rdcu.be/IC30)
+1. Ibrahim F\*, Maragkakis M\*, Alexiou P, Mourelatos Z, *Ribothrypsis, a novel
+process of canonical mRNA decay, mediates ribosome-phased mRNA
+endonucleolysis.* **Nat. Struct. Mol. Biol.**, (2018).
+[more...](http://rdcu.be/IC30)<br/>
+*(selected for journal cover and research highlight)*
 
 # Publications
 1.  Maragkakis M, Reczko M, Simossis VA, Alexiou P, Papadopoulos GL, Dalamagas
