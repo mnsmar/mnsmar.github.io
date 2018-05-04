@@ -6,12 +6,47 @@ header-img: "../img/bg.jpg"
 order: 1
 ---
 
-# Metrics
-Citations: &nbsp;*3469*  
-First author publications: &nbsp;*10*  
-h-index: &nbsp;*18*   
-Source: &nbsp;*[Google Scholar](https://scholar.google.com/citations?user=F3yZjVMAAAAJ)*
-<br><br>
+Metrics: &nbsp;*[Google Scholar](https://scholar.google.com/citations?user=F3yZjVMAAAAJ)*
+<br>
+
+# Selected
+1.  Maragkakis M, et al., *DIANA-microT web server: elucidating miRNA
+functions through target prediction.* **Nucleic Acids Res.** 37, W273–6,
+(2009).
+[more...](http://nar.oxfordjournals.org/content/37/suppl_2/W273.abstract)
+
+1.  Maragkakis M, et al., *Accurate miRNA target prediction correlates with
+protein repression levels.* **BMC Bioinformatics** 10, 295 (2009).
+[more...](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-295)
+
+1.  Maragkakis M\*, Vergoulis T\*, et al., *DIANA-microT Web server upgrade
+supports Fly and Worm miRNA target prediction and bibliographic miRNA to
+disease association.* **Nucleic Acids Res.** 39, W145–8 (2011).
+[more...](http://nar.oxfordjournals.org/content/39/suppl_2/W145.abstract)
+
+1.  Reczko M\*, Maragkakis M\*, et al., *Functional microRNA targets in
+protein coding sequences.* **Bioinformatics** 28, 771–776 (2012).
+[more...](http://bioinformatics.oxfordjournals.org/content/28/6/771.abstract)
+
+1.  Vourekas A\*, Zheng K\*, Fu Q\*, Maragkakis M\*, et al., *The RNA helicase
+MOV10L1 binds piRNA precursors to initiate piRNA processing.* **Genes &
+Development** 29, 617–629 (2015).
+[more...](http://genesdev.cshlp.org/content/early/2015/03/10/gad.254631.114)
+
+1.  Maragkakis M\*, Alexiou P\*, Nakaya T, Mourelatos Z, *CLIPSeqTools - A
+novel bioinformatics CLIP-Seq analysis suite.* **RNA** 22, 1–9 (2016).
+[more...](http://rnajournal.cshlp.org/content/early/2015/11/17/rna.052167.115)
+
+1.  Vourekas A, ALexiou P, Vrettos N, Maragkakis M, Mourelatos Z,
+*Sequence-dependent but not sequence-specific piRNA adhesion traps mRNAs to
+the germ plasm.* **Nature** 531, 390–394 (2016).
+[more...](http://www.nature.com/nature/journal/v531/n7594/full/nature17150.html)
+
+1. Ibrahim F\*, Maragkakis M\*, Alexiou P, Mourelatos Z, *Ribothrypsis, a
+novel process of canonical mRNA decay, mediates ribosome-phased mRNA
+endonucleolysis.* **Nat. Struct. Mol. Biol.** doi: 10.1038/s41594-018-0042-8
+(2018).
+[more...](http://rdcu.be/IC30)
 
 # Publications
 1.  Maragkakis M, Reczko M, Simossis VA, Alexiou P, Papadopoulos GL, Dalamagas
@@ -139,43 +174,16 @@ high-performance bioinformatics toolkit for the Go language.* **JOSS**,
 
 1. Ibrahim F\*, Maragkakis M\*, Alexiou P, Mourelatos Z, *Ribothrypsis, a
 novel process of canonical mRNA decay, mediates ribosome-phased mRNA
-endonucleolysis.* **Nat. Struct. Mol. Biol.** doi: 10.1038/s41594-018-0042-8
-(2018).
+endonucleolysis.* **Nat. Struct. Mol. Biol.**, (2018).
 [more...](http://rdcu.be/IC30)
 
-1. Tadashi N, Maragkakis M, *Amyotrophic Lateral Sclerosis associated FUS
-mutation shortens mitochondria and induces neurotoxicity.* (in revision)
-<br><br>
-
-
-# Conferences and posters
-1. Dalamagas, T, Farmakakis, T, Maragkakis, M, Hatzigeorgiou, AG, *FreePub:
-Collecting and Organizing Scientific Material Using Mindmaps.* **3rd
-International Workshop on Semantic Web Applications and Tools for the Life
-Sciences**, (2010).
-
-1. Grau J, Arend D, Grosse I, Hatzigeorgiou AG, Keilwagen J, Maragkakis M,
-Weinholdt C, Posch S, *Predicting miRNA targets utilizing an extended profile
-HMM.* **25th German Conference on Bioinformatics**, (2010).
-
-1. Vergoulis T, Alexakis M, Dalamagas T, Maragkakis M, Hatzigeorgiou AG,
-Sellis T, *Tarcloud: A cloud-based platform to support mirna target
-prediction.* **Lecture Notes in Computer Science**, (2012).
-
-1. Maragkakis M, Alexiou P, Mourelatos Z, *GenOO-HTS: A Modern Perl Framework
-for High Throughput Sequencing analysis.* **HiTSEQ 2013: High Throughput
-Sequencing Algorithms & Applications**, (2013).
-
-1. Maragkakis M, Alexiou P, Tadashi N, Mourelatos Z, *CLIPSeqTools: A novel
-bioinformatics CLIP-Seq analysis suite applied on Human Brain Ago HITS-CLIP.*
-**HSCBB14**, (2014).
-
-1. Ibrahim F\*, Maragkakis M\*, Alexiou P, Mourelatos Z,
-*Ribothrypsis mediates widespread, ribosome-phased, endonucleolytic decay of
-canonical mRNAs.* **RECOMB/ISCB**, (2017).
-<br><br>
-
-# Archives
+# Book chapters and preprints
 1.  Maragkakis M, Alexiou P, Mourelatos Z, *GenOO: A Modern Perl Framework
-for High Throughput Sequencing analysis.* **BioRxiv**, (2015).
+for High Throughput Sequencing analysis.* BioRxiv, (2015).
 [more...](http://biorxiv.org/content/early/2015/11/03/019265)
+
+1. Alexiou P, Maragkakis M, Mourelatos Z, Vourekas A, cCLIP-Seq: Retrieval of
+Chimeric Reads from HITS-CLIP (CLIP-Seq) Libraries. In: Okamura K., Nakanishi
+K. (eds) Argonaute Proteins. Methods in Molecular Biology, vol 1680. Humana
+Press, New York, NY (2018).
+[more...](https://dx.doi.org/10.1007/978-1-4939-7339-2_6)
