@@ -18,6 +18,12 @@ biomedical data to discover new biology and address fundamental questions in
 biology and medicine.
 
 # News
+![Photo](./img/ribothrypsis_poster_eccb2018.png){:style="float: left; margin-right: 8px; margin-top: 8px; width:80px;"}
+Great feedback after my highlight talk and proud of my poster on ribothrypsis
+receiving best poster award at the European Conference on Computational
+Biology ECCB 2018.
+<br> <br>
+
 ![Photo](https://media.springernature.com/w300/springer-static/cover-hires/journal/41594/25/4){:style="float: left; margin-right: 8px; margin-top: 8px; width:80px;"}
 Our work is highlighted at the cover of *Nature Structural & Molecular
 Biology*! The thread of mRNA is handled by three female figures in an allegory
