@@ -18,6 +18,11 @@ biomedical data to discover new biology and address fundamental questions in
 biology and medicine.
 
 # News
+![Photo](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41598-018-33964-0/MediaObjects/41598_2018_33964_Fig3_HTML.png){:style="float: left; margin-right: 8px; margin-top: 8px; width:80px;"}
+Our work showing mitochondria size reduction in ALS associated R495X mutant is online in Scientific Reports!
+[more...](https://www.nature.com/articles/s41598-018-33964-0)<br/>
+<br> <br>
+
 ![Photo](./img/ribothrypsis_poster_eccb2018.png){:style="float: left; margin-right: 8px; margin-top: 8px; width:80px;"}
 Great feedback after my highlight talk and proud of my poster on ribothrypsis
 receiving best poster award at the European Conference on Computational
@@ -31,10 +36,13 @@ of the three Fates (Moirai) that spun and cut the mother thread of life in
 Greek mythology!
 [more...](https://www.nature.com/nsmb/volumes/25/issues/4)
 
+
+![Photo](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41594-018-0048-2/MediaObjects/41594_2018_48_Fig1_HTML.jpg){:style="float: left; margin-right: 8px; margin-top: 8px; width:80px;"}
 Beautiful News & Views article in NSMB by Lynne Maquat, a pioneer in the
 RNA field and discoverer of Nonsense Mediated Decay (NMD) on our recently
 published work!
 [more...](https://dx.doi.org/10.1038/s41594-018-0048-2)
+<br> <br>
 
 # Interests
 High-throughput -omics, Data-driven biology, Genomics, Genetics, Systems

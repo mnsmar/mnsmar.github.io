@@ -32,6 +32,17 @@ protein coding sequences.* **Bioinformatics** 28, 771–776 (2012).
 [more...](http://bioinformatics.oxfordjournals.org/content/28/6/771.abstract)<br/>
 *(240+ citations)*
 
+1.  Vourekas A, Zheng Q, Alexiou P\*, Maragkakis M\*, Kirino Y, Gregory BD,
+Mourelatos Z, *Target RNA repertoire of Mili and Miwi reveals piRNA biogenesis
+and function of Miwi in spermiogenesis.* **Nat. Struct. Mol. Biol.** 19,
+773–781 (2012).
+[more...](http://www.nature.com/nsmb/journal/v19/n8/full/nsmb.2347.html)
+
+1.  Liu X, Zheng Q, Vrettos N, Maragkakis M, Alexiou P, Gregory BD, Mourelatos
+Z, *A MicroRNA precursor surveillance system in quality control of MicroRNA
+synthesis.* **Molecular Cell** 55, 868–879 (2014).
+[more...](http://www.cell.com/molecular-cell/abstract/S1097-2765(14)00610-8)
+
 1.  Vourekas A\*, Zheng K\*, Fu Q\*, Maragkakis M\*, et al., *The RNA helicase
 MOV10L1 binds piRNA precursors to initiate piRNA processing.* **Genes &
 Development** 29, 617–629 (2015).
@@ -51,7 +62,12 @@ the germ plasm.* **Nature** 531, 390–394 (2016).
 process of canonical mRNA decay, mediates ribosome-phased mRNA
 endonucleolysis.* **Nat. Struct. Mol. Biol.**, (2018).
 [more...](http://rdcu.be/IC30)<br/>
-*(selected for journal cover and research highlight)*
+*(Selected for journal cover and research highlight)*
+
+1. Nakaya T<sup>$</sup>, Maragkakis M<sup>$</sup>, *Amyotrophic Lateral
+Sclerosis associated FUS mutation shortens mitochondria and induces
+neurotoxicity.* **Scientific Reports**, (2018).
+[more...](https://www.nature.com/articles/s41598-018-33964-0)<br/>
 
 # Publications
 1.  Maragkakis M, Reczko M, Simossis VA, Alexiou P, Papadopoulos GL, Dalamagas
