@@ -17,32 +17,7 @@ computational tools to mine and integrate multidimensional biological and
 biomedical data to discover new biology and address fundamental questions in
 biology and medicine.
 
-# News
-![Photo](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41598-018-33964-0/MediaObjects/41598_2018_33964_Fig3_HTML.png){:style="float: left; margin-right: 8px; margin-top: 8px; width:80px;"}
-Our work showing mitochondria size reduction in ALS associated R495X mutant is online in Scientific Reports!
-[more...](https://www.nature.com/articles/s41598-018-33964-0)<br/>
-<br> <br>
-
-![Photo](./img/ribothrypsis_poster_eccb2018.png){:style="float: left; margin-right: 8px; margin-top: 8px; width:80px;"}
-Great feedback after my highlight talk and proud of my poster on ribothrypsis
-receiving best poster award at the European Conference on Computational
-Biology ECCB 2018.
-<br> <br>
-
-![Photo](https://media.springernature.com/w300/springer-static/cover-hires/journal/41594/25/4){:style="float: left; margin-right: 8px; margin-top: 8px; width:80px;"}
-Our work is highlighted at the cover of *Nature Structural & Molecular
-Biology*! The thread of mRNA is handled by three female figures in an allegory
-of the three Fates (Moirai) that spun and cut the mother thread of life in
-Greek mythology!
-[more...](https://www.nature.com/nsmb/volumes/25/issues/4)
-
-
-![Photo](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41594-018-0048-2/MediaObjects/41594_2018_48_Fig1_HTML.jpg){:style="float: left; margin-right: 8px; margin-top: 8px; width:80px;"}
-Beautiful News & Views article in NSMB by Lynne Maquat, a pioneer in the
-RNA field and discoverer of Nonsense Mediated Decay (NMD) on our recently
-published work!
-[more...](https://dx.doi.org/10.1038/s41594-018-0048-2)
-<br> <br>
+<a class="twitter-timeline" data-height="2000" data-theme="dark" href="https://twitter.com/mnsmar?ref_src=twsrc%5Etfw">Tweets by mnsmar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Interests
 High-throughput -omics, Data-driven biology, Genomics, Genetics, Systems
