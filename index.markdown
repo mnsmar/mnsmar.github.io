@@ -13,7 +13,7 @@ and discover novel avenues for precision medicine.  My interests revolve
 around data-driven biology and genomics, machine learning, systems biology,
 and large-scale data analysis.
 
-<a class="twitter-timeline" data-height="2000" data-theme="dark" href="https://twitter.com/mnsmar?ref_src=twsrc%5Etfw">Tweets by mnsmar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="2000" data-theme="light" href="https://twitter.com/mnsmar?ref_src=twsrc%5Etfw">Tweets by mnsmar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Interests
 High-throughput -omics, Data-driven biology, Genomics, Genetics, Systems
