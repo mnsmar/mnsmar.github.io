@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-description: "Short description of my research work"
+description: "in brief"
 header-img: "../img/bg.jpg"
 order: 2
 ---
