@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chord Metronome</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 1em;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .controls {
+      text-align: center;
+      width: 100%;
+      max-width: 500px;
+    }
+    select, input, button {
+      font-size: 1em;
+      padding: 0.6em;
+      margin: 0.5em;
+      width: 90%;
+      max-width: 300px;
+    }
+    #container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 2em;
+      gap: 1em;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+    }
+    .chord-column {
+      text-align: center;
+      flex: 0 0 auto;
+    }
+    .chord-list {
+      font-size: 1.5em;
+      color: #555;
+      min-width: 4em;
+    }
+    #current-chord {
+      font-size: 3em;
+      font-weight: bold;
+      min-width: 4em;
+    }
+  </style>
+</head>
+<body>
+  <div class="controls">
+    <h2>Chord Metronome</h2>
+
+    <label for="chords">Tap to Select Chords (use Cmd/Ctrl for multiple):</label><br>
+    <select id="chords" multiple size="6">
+      <option value="C">C</option>
+      <option value="G">G</option>
+      <option value="Am">Am</option>
+      <option value="F">F</option>
+      <option value="Dm">Dm</option>
+      <option value="Em">Em</option>
+      <option value="E">E</option>
+      <option value="A">A</option>
+    </select><br>
+
+    <label for="bpm">Tempo (BPM):</label><br>
+    <input type="number" id="bpm" value="60" min="20" max="300"><br>
+
+    <button onclick="startMetronome()">Start</button>
+    <button onclick="stopMetronome()">Stop</button>
+  </div>
+
+  <div id="container">
+    <div class="chord-column">
+      <div id="prev-chords" class="chord-list">-</div>
+    </div>
+    <div class="chord-column">
+      <div id="current-chord">-</div>
+    </div>
+    <div class="chord-column">
+      <div id="next-chords" class="chord-list">-</div>
+    </div>
+  </div>
+
+  <script>
+    let intervalId = null;
+    let chordQueue = [];
+    let history = [];
+
+    function getSelectedChords() {
+      const select = document.getElementById("chords");
+      return Array.from(select.selectedOptions).map(opt => opt.value);
+    }
+
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    function refillQueue(chords) {
+      while (chordQueue.length < 10) {
+        chordQueue.push(...shuffle([...chords]));
+      }
+    }
+
+    function updateDisplay(prev, current, next) {
+      document.getElementById("current-chord").textContent = current || "-";
+      document.getElementById("prev-chords").textContent = prev.slice(-3).reverse().join(" ");
+      document.getElementById("next-chords").textContent = next.slice(0, 3).join(" ");
+    }
+
+    function tick() {
+      const chords = getSelectedChords();
+      if (chords.length === 0) {
+        updateDisplay([], "-", []);
+        return;
+      }
+      refillQueue(chords);
+      const current = chordQueue.shift();
+      history.unshift(current);
+      updateDisplay(history.slice(1), current, chordQueue);
+    }
+
+    function startMetronome() {
+      stopMetronome();
+      const bpm = parseInt(document.getElementById("bpm").value, 10);
+      if (!bpm || bpm <= 0) return;
+      history = [];
+      chordQueue = [];
+      tick();
+      const interval = 60000 / bpm;
+      intervalId = setInterval(() => {
+        // Ensure visibility update is handled
+        requestAnimationFrame(tick);
+      }, interval);
+    }
+
+    function stopMetronome() {
+      if (intervalId !== null) {
+        clearInterval(intervalId);
+        intervalId = null;
+      }
+    }
+  </script>
+</body>
+</html>
